@@ -39,6 +39,22 @@ Membuat aplikasi api jobportal menggunakan Django versi 4.2
         Proyek sukses dijalankan. :)
 
 
+#### 1.2 BACKEND - Menginstal packages
+
+        1. Menginstal packages
+
+        > pip install boto3 django-cors-headers django-dotenv django-filter\
+          django-storages djangorestframework djangorestframework-simplejwt \
+          geocoder gunicorn whitenoise psycopg2 dj-database-url
+
+        2. Menyimpan list packages yg telah diinstal pada requirements.txt
+
+        modified:   README.md
+        modified:   backend/requirements.txt
+        
+        :)
+
+
 
 
 
